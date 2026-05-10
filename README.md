@@ -30,9 +30,9 @@ An interactive Streamlit web app that helps users practice English speaking by r
 
 ## 📸 Screenshot:
 ![App Screenshot](assets/UI.png)
-#
+# ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 ![App Screenshot](assets/output_of_recorded_voice.png)
-#
+# ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
 ![App Screenshot](assets/response_after_saved.png)
 
 ---
