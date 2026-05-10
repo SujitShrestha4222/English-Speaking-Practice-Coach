@@ -29,14 +29,14 @@ An interactive Streamlit web app that helps users practice English speaking by r
 ---
 
 ## 📸 Screenshot:
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/UI.png)
 
 ---
 
 ## ▶️ How to Run:
 ```bash
-git clone https://github.com/your-username/english-speaking-practice-coach.git
-cd english-speaking-practice-coach
+git clone https://github.com/SujitShrestha4222/English-Speaking-Practice-Coach
+cd English-Speaking-Practice-Coach
 pip install -r requirements.txt
 streamlit run app.py
 
